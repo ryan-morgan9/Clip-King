@@ -5,8 +5,6 @@ Clip King is a tournament-style mobile quiz app that allows users to find their 
 The app imports and uses the ConfettiSwiftUI package. It should load in automatically with the app, but if it doesn't for any reason this is the Github repository it can be imported from:
 https://github.com/simibac/ConfettiSwiftUI
 
-![Categories Page](images/categories.png)
-![Quiz Page](images/quiz_page.png)
-![Final Page](images/final_clip.png)
-![Share Favourite Clip](images/share_clip.png)
-![Landscape Quiz Page](images/landscape.jpg)
+<img src="images/categories.png" width="400"> <img src="images/quiz_page.png" width="400">
+<img src="images/final_clip.png" width="400"> <img src="images/share_clip.png" width="400">
+<img src="images/landscape.jpg" width="800">
